@@ -1,4 +1,4 @@
-# Fundamental Linux Terminal Operations
+# Fundamental Linux Terminal Operations / Text Editing / Bash Scripting
 
 ## Tasks Accomplished:
 
